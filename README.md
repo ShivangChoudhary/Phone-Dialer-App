@@ -35,7 +35,7 @@ dependencies:
 
 Clone the Repository
 
-git clone https://github.com/yourusername/phone_dialer_app.git
+git clone https://github.com/ShivangChoudhary/Phone-Dialer-App.git
 
 cd phone_dialer_app
 
