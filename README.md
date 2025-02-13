@@ -22,13 +22,13 @@ provider – State management.
 Add the following to your pubspec.yaml:
 
 dependencies:
-  flutter:
-    sdk: flutter
+flutter:
+  sdk: flutter
   call_log: ^4.0.0
   contacts_service: ^0.6.3
   provider: ^6.0.5
   flutter_localizations:
-    sdk: flutter
+    
 
 
 🚀 Getting Started
@@ -44,5 +44,4 @@ Install Dependencies
 flutter pub get
 
 Run the App
-
 flutter run
