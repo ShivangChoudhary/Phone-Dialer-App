@@ -3,6 +3,7 @@
 A modern and feature-rich Phone Dialer App built with Flutter, offering functionalities like contact management, call history, number blocking, and international dialing with country flags. The app also supports dark mode for a seamless user experience.
 
 ✨ Features
+
 Dial Pad – Intuitive dialer interface for quick dialing.
 Call History – View recent call logs with timestamps.
 Contacts Integration – Syncs with Google Contacts API.
@@ -17,6 +18,7 @@ call_log & contacts_service – Managing call logs and contacts.
 provider – State management.
 
 📦 Dependencies
+
 Add the following to your pubspec.yaml:
 
 dependencies:
@@ -30,13 +32,17 @@ dependencies:
 
 
 🚀 Getting Started
+
 Clone the Repository
 
 git clone https://github.com/yourusername/phone_dialer_app.git
+
 cd phone_dialer_app
 
 Install Dependencies
+
 flutter pub get
 
 Run the App
+
 flutter run
